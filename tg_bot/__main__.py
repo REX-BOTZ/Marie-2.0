@@ -24,7 +24,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @MarieChechi &l My Support Group @REX_BOT_SUPPORT.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/REX-BOTZ/Marie-2.0),
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Abirhassan2005),
 you can create clone same like me..
 
 For more commands click /help...
